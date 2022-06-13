@@ -1,6 +1,6 @@
 body * {
     visibility: hidden;
   }
-  #axs-dashboard-chart-container, #axs-dashboard-chart-container * {
+  #modal-body, #modal-body * {
     visibility: visible;
   }
