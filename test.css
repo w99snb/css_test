@@ -1,0 +1,11 @@
+body * {
+    visibility: hidden;
+  }
+  #axs-dashboard-chart-container m-2, #axs-dashboard-chart-container m-2 * {
+    visibility: visible;
+  }
+  #axs-dashboard-chart-container m-2 {
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
