@@ -1,6 +1,13 @@
-body * {
+app-root {
     visibility: hidden;
   }
-  #modal-body, #modal-body * {
+
+  .chart {
     visibility: visible;
+  }
+
+.chart {
+    position: absolute;
+    left: 0;
+    top: 0;
   }
